@@ -3,7 +3,7 @@
 Spring4.0、Struts2.3.15、Hibernate4.2.<br>
 *這個架構只能用Jdk1.7,不能用jdk11否則會整個打結壞掉...<br>
 # 啟動方式:<br>
-使用gradle , 載入相關jar,即可
+使用gradle , 生成相關jar,即可
 
 
 # 題外話
